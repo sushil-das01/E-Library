@@ -14,7 +14,7 @@ const Home = () => {
                         </p>
                     </div>
                     <div class="md:w-[80%] p-4">
-                        <video autoPlay muted loop src="./videos/Macbook Pro, Slight Right Tilt.mp4" alt="Placeholder image for e-learning" class="rounded-lg shadow-lg" />
+                        <img src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Placeholder image for e-learning" class="rounded-lg shadow-lg" />
                     </div>
                 </main>
 
